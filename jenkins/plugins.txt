@@ -1,4 +1,8 @@
 github
+sonar
+maven-plugin
+configurationslicing
+spring-initalzr
 docker-plugin
 nexus-artifact-uploader
 greenballs
